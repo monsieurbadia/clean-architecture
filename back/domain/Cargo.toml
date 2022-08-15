@@ -3,4 +3,9 @@ edition = "2021"
 name = "back-domain"
 version = "0.1.0"
 
+[lib]
+doctest = false
+
 [dependencies]
+anyhow = "1.0"
+uuid = {version = "1.1.2", features = ["v4"]}
