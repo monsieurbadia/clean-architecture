@@ -1,2 +1,2 @@
-# clean-architecture
-a test project to understand the clean architecture and how to implement it using rust.
+# hexagonal-architecture
+a test project to understand the hexagonal architecture and how to implement it using rust.

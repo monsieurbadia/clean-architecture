@@ -20,6 +20,8 @@ impl User {
       is_member,
     }
   }
+
+  // TODO: check the validity of the name and email
 }
 
 /// represents an instance of the user id

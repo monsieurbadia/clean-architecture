@@ -3,4 +3,9 @@ edition = "2021"
 name = "back-infrastructure"
 version = "0.1.0"
 
+[lib]
+doctest = false
+
 [dependencies]
+anyhow = "1.0"
+back-domain = {path = "../domain"}
